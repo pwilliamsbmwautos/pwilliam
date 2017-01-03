@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-12-25_1841",
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.2",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "3.10.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -155,7 +155,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-32.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -169,7 +169,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_styles": {
@@ -342,7 +342,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-15.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-59.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -435,7 +435,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-78.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -449,7 +449,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_styles": {
@@ -617,9 +617,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-37.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -706,7 +710,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-8.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -720,7 +724,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_styles": {
@@ -862,9 +866,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-37.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -951,7 +959,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-69.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -965,7 +973,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_styles": {
@@ -1311,9 +1319,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-43.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1494,7 +1506,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-86.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1508,7 +1520,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -1535,9 +1547,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-73.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1555,10 +1571,57 @@
       "settings": {},
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1x",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2011-bmw-i8-2000x1500-79.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "SHOP",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#b90736"
+            },
+            "SPAN": {
+              "color": "#5b5b5b"
+            }
+          },
           "_anchor": "features3-17",
           "_params": {
             "paddingTop": "3",
@@ -1613,7 +1676,7 @@
           "title2": "2016 BMW X6",
           "subtitle2": "<span style=\"font-style: normal;\"><b>M G-Power Typhoon</b></span>",
           "caption2": "<b>Price: 210,000 $</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"2016 BMW X6 M G-POWER.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/2011-bmw-m5-touring-g-power-hurricane-rs-600x412-72.jpg",
@@ -1629,7 +1692,7 @@
           "title3": "2011 BMW M5",
           "subtitle3": "<b>Touring G-Power Hurricane RS</b>",
           "caption3": "<b>Price: 700,000 $</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"2011 BMW M5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/2009-bmw-m5-g-power-hurricane-rs-2-600x307-92.jpg",
@@ -1645,7 +1708,7 @@
           "title4": "<p>2009&nbsp;BMW M5</p>",
           "subtitle4": "<span style=\"font-style: normal;\"><b>G- Power hurricane RS</b></span>",
           "caption4": "<b>Price: 690,000$</b>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"2009 BMW M5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1669,20 +1732,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#b90736"
-            },
-            "SPAN": {
-              "color": "#5b5b5b"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1755,8 +1805,8 @@
           },
           "title2": "2006 BMW ALPINA",
           "subtitle2": "<font color=\"#b90736\" face=\"Oswald, sans-serif\"><span style=\"font-style: normal;\"><b>B7 Series Sedan</b></span></font>",
-          "caption2": "<b>Price: 210,000 $</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "<b>Price: 350,000 $</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/2017-bmw-4-series-change-600x310-14.jpg",
@@ -1771,8 +1821,8 @@
           },
           "title3": "2011 BMW i8",
           "subtitle3": "<b>Touring G-Power Hurricane RS</b>",
-          "caption3": "<b>Price: 700,000 $</b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "<b>Price: 620,000 $</b>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/2017-bmw-m760i-600x399-49.jpg",
@@ -1787,8 +1837,8 @@
           },
           "title4": "<p>2017 BMW 7 series</p>",
           "subtitle4": "<span style=\"font-style: normal;\"><b>G- Power hurricane RS</b></span>",
-          "caption4": "<b>Price: 690,000$</b>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption4": "<b>Price: 530,000$</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1884,7 +1934,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-80.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1898,7 +1948,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -1925,7 +1975,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-15.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-85.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1953,6 +2003,17 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "H2": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -1960,7 +2021,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/2016-bmw-x6-m-hamann-widebody-f86-2000x1375-87.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1973,10 +2034,10 @@
                 "showText": true,
                 "text": "Top speed 300 kph / 186 mph<br>0-100 kph<br>0-60 mph<br>4.1 seconds<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">240,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">240,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2016 BMW X6.html#form1-1e\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/2016-bmw-x6-m-hamann-widebody-f86-2-2000x1375-95.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1986,8 +2047,8 @@
                 "title": "2016 BMW X6 M HAMANN WIDEBOY",
                 "showText": true,
                 "text": "Power &amp; torque 640 bhp / 471 kW 800 Nm @ 0 rpm<br><br>bhp / weight 278 bhp per tonne<br><br>Displacement V8 4.4 litre / 4395 cc<br><br>Weight 2300 kg / 5071 lbs<br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">240,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2016 BMW X6.html#form1-1e\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": false,
@@ -2001,7 +2062,7 @@
                 "showText": true,
                 "text": "Top speed 300 kph /  186 mph<br>0-100 kph<br>0-60 mph<br>4.1 seconds<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">240,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">240,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2016 BMW X6.html#form1-1e\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               }
             ],
             "fullScreen": false,
@@ -2009,24 +2070,18 @@
             "showBullets": true
           },
           "_anchor": "slider3-1c",
-          "articleLayout": false,
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "center"
-            },
-            "H2": {
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1e",
           "_params": {
             "labelsColor": "#232323",
@@ -2043,8 +2098,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "SHOOT ME A NOTE",
+          "subtitle": "",
           "form": {
             "action": "pwilliamsbmwautos@gmail.com",
             "alerts": {
@@ -2072,12 +2127,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -2149,7 +2199,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-85.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-317x128-4.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2163,7 +2213,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -2190,7 +2240,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-15.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x51-13.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2236,7 +2286,7 @@
                 "showText": true,
                 "text": "Top speed 299 kph /  186 mph<br>0-100 kph<br>0-60 mph<br>3.9 seconds<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">210,00$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">210,00$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2016 BMW X6 M G-POWER.html#form1-1i\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": true,
@@ -2249,8 +2299,8 @@
                 "title": "2016 BMW X6 M G-POWER",
                 "showText": true,
                 "text": "Power &amp; torque 750 bhp /  551 kW 980 Nm @ 0 rpm<br><br>bhp / weight 331  bhp per tonne<br><br>Displacement V8    4.4  litre /  4395 cc<br><br>Weight 2265  kg /  4993  lbs<br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">210,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2016 BMW X6 M G-POWER.html#form1-1i\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               }
             ],
             "fullScreen": false,
@@ -2344,7 +2394,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -2372,8 +2422,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "SHOOT ME A NOTE",
+          "subtitle": "",
           "form": {
             "action": "pwilliamsbmwautos@gmail.com",
             "alerts": {
@@ -2456,6 +2506,14 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -2472,9 +2530,9 @@
                 "showTitle": true,
                 "title": "2011 BMW M5",
                 "showText": true,
-                "text": "In the F10 M5, you get: a unique engine; a unique, reinforced and re-ratio’d, seven-speed dual-clutch transmission; and a unique, electronic limited-slip differential with a unique aluminum horse-collar mount for added rigidity<br>",
+                "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M5.html#form1-1o\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": false,
@@ -2488,7 +2546,7 @@
                 "showText": true,
                 "text": "Top speed 359 kph /  223 mph<br>0-100 kph<br>0-60 mph<br>4.5 seconds<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M5.html#form1-1o\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": false,
@@ -2502,7 +2560,7 @@
                 "showText": true,
                 "text": "Power &amp; torque 750 bhp /  551 kW 800 Nm @ 5000 rpm<br><br>bhp / weight 384  bhp per tonne<br><br>Displacement V10    5  litre /  4999 cc<br><br>Weight 1955  kg /  4310  lbs<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M5.html#form1-1o\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": false,
@@ -2516,7 +2574,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M5.html#form1-1o\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": true,
@@ -2530,7 +2588,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">700,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M5.html#form1-1o\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               }
             ],
             "fullScreen": false,
@@ -2538,15 +2596,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-1m",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -2574,8 +2624,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "SHOOT ME A NOTE",
+          "subtitle": "",
           "form": {
             "action": "pwilliamsbmwautos@gmail.com",
             "alerts": {
@@ -2689,7 +2739,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -2775,7 +2825,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2009 BMW M5.html#form1-1r\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": false,
@@ -2789,7 +2839,7 @@
                 "showText": true,
                 "text": "Top speed 323 kph /  201 mph<br>0-100 kph<br>0-60 mph<br>4.2 seconds<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2009 BMW M5.html#form1-1r\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
                 "active": true,
@@ -2803,7 +2853,7 @@
                 "showText": true,
                 "text": "Power &amp; torque 635 bhp /  467 kW 630 Nm @ 3900 rpm<br><br>bhp / weight 464  bhp per tonne<br><br>Displacement V8    4.4  litre /  4361 cc<br><br>Weight 1370  kg /  3020  lbs<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2009 BMW M5.html#form1-1r\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               }
             ],
             "fullScreen": false,
@@ -2954,7 +3004,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -3028,7 +3078,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2009-bmw-m5-g-power-hurricane-rs-6-1-2000x772-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2011-bmw-m3-gts-g-power-4-2000x1277-45.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -3040,11 +3090,11 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M3.html#form1-1w\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2009-bmw-m5-g-power-hurricane-rs-3-1-2000x1710-48.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2011-bmw-m3-gts-g-power-6-2000x1500-26.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -3054,21 +3104,7 @@
                 "showText": true,
                 "text": "Top speed 323 kph /  201 mph<br>0-100 kph<br>0-60 mph<br>4.2 seconds<br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/2009-bmw-m5-g-power-hurricane-rs-4-2000x1347-33.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "2009 BMW M5",
-                "showText": true,
-                "text": "Power &amp; torque 635 bhp /  467 kW 630 Nm @ 3900 rpm<br><br>bhp / weight 464  bhp per tonne<br><br>Displacement V8    4.4  litre /  4361 cc<br><br>Weight 1370  kg /  3020  lbs<br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#\" data-toolbar=\"-mbrBtnMove\">250,000$</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"2011 BMW M3.html#form1-1w\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
               }
             ],
             "fullScreen": false,
@@ -3104,8 +3140,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "SHOOT ME A NOTE",
+          "subtitle": "",
           "form": {
             "action": "pwilliamsbmwautos@gmail.com",
             "alerts": {
@@ -3219,7 +3255,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"testimonials.html\" aria-expanded=\"false\">Testimonials</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whybuyfromme.html\" aria-expanded=\"false\">Why buy from me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"shop.html\" aria-expanded=\"false\">Shop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">Contact</a></li>"
         },
         {
           "_tags": [

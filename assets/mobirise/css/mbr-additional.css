@@ -851,6 +851,10 @@ h6,
 }
 
 
+#msg-box8-1x .mbr-section-title,
+#msg-box8-1x p {
+  color: #fff;
+}
 #features3-17 P {
   color: #000000;
 }
@@ -939,10 +943,10 @@ h6,
   color: #ffffff;
 }
 #slider3-1c P {
-  text-align: center;
+  text-align: left;
 }
 #slider3-1c H2 {
-  text-align: center;
+  text-align: left;
 }
 #form1-1e .form-control-label {
   color: #232323;
